@@ -1,0 +1,36 @@
+.enc {
+  background-color: #6f1d1b;
+  color: #bb9457;
+  padding: 40px;
+  width: 50%;
+  margin: 0px auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px solid #432818;
+  border-radius: 200px;
+  padding: 50px;
+}
+.chs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ntx {
+  margin: 20px;
+  padding: 5px 20px;
+  background-color: #ffe6a7;
+  color: #99582a;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 1s all;
+}
+.ntx:hover {
+  margin: 20px;
+  padding: 5px 20px;
+  color: #ffe6a7;
+  background-color: #99582a;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 1s all;
+}

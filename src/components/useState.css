@@ -1,0 +1,55 @@
+.presentacion {
+  background-color: #aea9c4;
+  color: #42033d;
+  padding: 10%;
+  margin: 0px auto;
+  width: 20%;
+  height: auto;
+  border-radius: 100%;
+}
+.btn-pre {
+  margin: 0px auto;
+  background-color: #42033d;
+  color: #aea9c4;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 30px;
+}
+.boton {
+  padding: 15px;
+  margin: 20px;
+  background-color: #1b1b1e;
+  color: #58a4b0;
+}
+.contador {
+  background-color: #58a4b0;
+  padding: 25px;
+  border-radius: 5%;
+  margin: 25px;
+}
+.ctn {
+  background-color: #373f51;
+  width: 50%;
+  margin: 0px auto;
+  text-align: center;
+}
+.contenido {
+  font-size: 3rem;
+}
+.cuadrado {
+  color: #1b1b1e;
+  width: 100px;
+  line-height: 100px;
+  margin: 40px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px dashed #58a4b0;
+  outline: none;
+  font-size: 4rem;
+}
+.sum-cd {
+  font-size: 2rem;
+  padding: 5px 15px;
+  color: #373f51;
+  background-color: #58a4b0;
+}
